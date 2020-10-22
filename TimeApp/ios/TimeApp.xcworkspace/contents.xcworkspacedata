@@ -7,4 +7,102 @@
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
+   <Group
+      location = "group:Pods"
+      name = "Targets Support Files">
+      <Group
+         location = "group:Pods/Target Support Files/Pods-TimeApp"
+         name = "Pods-TimeApp">
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp.modulemap">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp-acknowledgements.markdown">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp-acknowledgements.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp-dummy.m">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp-resources.sh">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp-umbrella.h">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp.debug.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp/Pods-TimeApp.release.xcconfig">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests"
+         name = "Pods-TimeApp-TimeAppTests">
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests.modulemap">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests-acknowledgements.markdown">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests-acknowledgements.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests-dummy.m">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests-resources.sh">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests-umbrella.h">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests.debug.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-TimeAppTests/Pods-TimeApp-TimeAppTests.release.xcconfig">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS"
+         name = "Pods-TimeApp-tvOS">
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS/Pods-TimeApp-tvOS-acknowledgements.markdown">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS/Pods-TimeApp-tvOS-acknowledgements.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS/Pods-TimeApp-tvOS-dummy.m">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS/Pods-TimeApp-tvOS.debug.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOS/Pods-TimeApp-tvOS.release.xcconfig">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests"
+         name = "Pods-TimeApp-tvOSTests">
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests/Pods-TimeApp-tvOSTests-acknowledgements.markdown">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests/Pods-TimeApp-tvOSTests-acknowledgements.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests/Pods-TimeApp-tvOSTests-dummy.m">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests/Pods-TimeApp-tvOSTests.debug.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-TimeApp-tvOSTests/Pods-TimeApp-tvOSTests.release.xcconfig">
+         </FileRef>
+      </Group>
+   </Group>
 </Workspace>

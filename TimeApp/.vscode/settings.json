@@ -1,0 +1,15 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+    ],
+    "eslint.options": {
+        "extensinons": [
+            ".ts",
+            ".js",
+            ".tsx",
+            ".jsx"
+        ]
+    },
+    "editor.formatOnSave": true
+}
